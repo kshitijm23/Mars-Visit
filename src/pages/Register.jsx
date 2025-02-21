@@ -151,7 +151,8 @@ const Register = () => {
         </div>
       </div>
 
-      <div className="w-[90%] z-[1000] md:w-[50%] md:mt-0 mt-10 h-[80%] md:h-[80%] bg-white p-3 gap-5 rounded-2xl flex flex-col md:flex-row justify-center items-center">
+      <div className="w-[90%] z-[1000] md:w-[50%] min-h-[80%] bg-white p-3 gap-5 rounded-2xl flex flex-col overflow-auto">
+
         <div className="relative w-[35%] h-full rounded-xl overflow-hidden">
           <img
             src={FormBackground}
