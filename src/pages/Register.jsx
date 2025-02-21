@@ -339,7 +339,7 @@ const Register = () => {
                 Let us help you ensure your good health and top-notch safety:
               </div>
 
-              <h3 className="text-lg font-semibold text-MarineBlue mb-2">Health Declaration</h3>
+              <h3 className="text-lg font-semibold text-MarineBlue mb-2">Health Declaration: </h3>
               <div className="flex gap-4 mb-5">
                 <label className="flex items-center gap-2">
                   <input
